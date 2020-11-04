@@ -2,7 +2,7 @@
    <h1 align="center">
    APP CalculaAê
   </h1>
-  <img src="img/logo.png"/>
+  <img src="logo.png"/>
 
 </div>
 
